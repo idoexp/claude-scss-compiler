@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# Node (shouldn't exist in this repo, but just in case)
+node_modules/
+
+# Logs
+*.log
+
+# Self-test artifacts
+scss-compile-selftest-*/
